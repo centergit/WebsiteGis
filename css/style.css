@@ -10,7 +10,7 @@ footer{
 }
 .banner{
     padding: 80px;
-    background-image: url(images/header.jpg);
+    background-image: url(../images/header.jpg);
     background-size:contain;
     text-align: center;
     font-size: larger;
